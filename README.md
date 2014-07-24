@@ -47,8 +47,8 @@ sandboxed environment, i.e. [VirtualBox][]
  * [Bundler][]: `gem install bundler`
  * [Berkshelf][]: `bundle install`
  * [Vagrant][] 1.1.0 and greater
- * Berkshelf plugin for Vagrant: `vagrant plugin install vagrant-berkshelf`
  * Omnibus plugin for Vagrant: `vagrant plugin install vagrant-omnibus`
+ * Berkshelf plugin for Vagrant: `vagrant plugin install vagrant-berkshelf --plugin-version >2.0.0`
 
 ### Bootstrap VirtualBox
 
